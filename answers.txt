@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: The algorithm shows varying performance depending on the initial order of the data, performing slightly better on sorted data, which is characteristic of Bubble Sort.
+
+sort2 uses: Merge Sort
+
+How do you know?: The algorithm handles random and reversed datasets relatively well but shows a significant slowdown on sorted data, indicative of a divide-and-conquer strategy like Merge Sort.
+
+sort3 uses: Selection Sort
+
+How do you know?: The performance is consistent across different data orders and does not improve with sorted data, indicating a quadratic time complexity typical of Selection Sort.
